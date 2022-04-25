@@ -1414,9 +1414,9 @@
     uuid "^8.3.2"
 
 "@layer0/devtools@^3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-3.6.0.tgz#d05a4336b2947cb5d7ea09a5264609dd39d5f781"
-  integrity sha512-0PjFVDxXaNYPxvzeU6J7bg5TeqG95PRjcX9Kq6A3lyCnTLvlv4Lh8aw4e6/w67P9+4nYSJyWyPXd708JKBXnaQ==
+  version "3.17.8"
+  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-3.17.8.tgz#65ea0df91e49f14b9ca75804c50b74d2138162cc"
+  integrity sha512-j8KYHvb/Km0RGapToprJnH9TKCZlDqrGhLC5drX55BDmbd8nRb9FPFlBZey1Q/VSKvcr38DUlVaIO71sTnPmOA==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
