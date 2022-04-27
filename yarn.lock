@@ -1423,9 +1423,9 @@
     sirv-cli "^1.0.0"
 
 "@layer0/prefetch@^3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@layer0/prefetch/-/prefetch-3.6.0.tgz#0ae5ca421c46da597305c37a9cca4f908d3f35af"
-  integrity sha512-V6rRM1cfIKF6GEsntkfde3ciKKsNgHww04ggk4OUJ+amiRAlNmUte7RTzXiQT6GcWHEErvPPMid+ynByZogIKg==
+  version "3.17.10"
+  resolved "https://registry.yarnpkg.com/@layer0/prefetch/-/prefetch-3.17.10.tgz#788e34a25cbd22f49983992df5185fdc12efc33a"
+  integrity sha512-1cyVxa1RHiLjs0RUy5dRywODZfYKPGMG6vuKJU4Aw3wHwIbQO0u3tHeaO+nnekhtlwx7VPJ83gok7nYfBlGZoA==
   dependencies:
     cheerio "^1.0.0-rc.3"
     json-query "^2.2.2"
